@@ -1,13 +1,13 @@
 * {
-    margin: 30;
-    padding: 20;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
   }
   
   .container {
     background-color: #b1b1b1;
     min-height: 10vh;
-    border: 10px solid #2a2b56;
+    border: 10vx solid #2a2b56;
   }
   
   .content {
