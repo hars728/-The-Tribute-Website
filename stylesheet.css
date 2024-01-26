@@ -1,12 +1,12 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 30;
+    padding: 20;
     box-sizing: border-box;
   }
   
   .container {
     background-color: #b1b1b1;
-    min-height: 100vh;
+    min-height: 10vh;
     border: 10px solid #2a2b56;
   }
   
